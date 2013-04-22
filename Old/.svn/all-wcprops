@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/Old
+END
+jxta.policy
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/Old/jxta.policy
+END
+old_pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/Old/old_pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/Old/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/Old/Makefile
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/Old/build.xml
+END

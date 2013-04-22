@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint
+END
+SocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/SocketFactory.java
+END
+BlockingMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/BlockingMessenger.java
+END
+EndpointUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/EndpointUtils.java
+END
+AsynchronousMessageWriteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/AsynchronousMessageWriteListener.java
+END
+LoopbackMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/LoopbackMessenger.java
+END
+EndpointServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/EndpointServiceImpl.java
+END
+AsynchronousMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/AsynchronousMessenger.java
+END
+MessageWriteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/MessageWriteListener.java
+END
+WireFormatMessageBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/WireFormatMessageBinary.java
+END
+IPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/IPUtils.java
+END
+JxtaMessageMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/JxtaMessageMessageElement.java
+END
+TransportUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/TransportUtils.java
+END
+QueuedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/QueuedMessage.java
+END

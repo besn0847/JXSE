@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/backport/java/util
+END
+AbstractSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/backport/java/util/AbstractSet.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/backport/java/util/Utils.java
+END
+AbstractMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/backport/java/util/AbstractMap.java
+END
+NavigableSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/backport/java/util/NavigableSet.java
+END
+NavigableMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/backport/java/util/NavigableMap.java
+END
+TreeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/backport/java/util/TreeMap.java
+END

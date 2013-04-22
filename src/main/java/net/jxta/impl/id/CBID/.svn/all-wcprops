@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID
+END
+Instantiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/Instantiator.java
+END
+IDFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/IDFormat.java
+END
+PeerGroupID.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/PeerGroupID.java
+END
+CodatID.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/CodatID.java
+END
+ContentID.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/ContentID.java
+END
+ModuleClassID.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/ModuleClassID.java
+END
+PeerID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/PeerID.java
+END
+PipeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/PipeID.java
+END
+ModuleSpecID.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/id/CBID/ModuleSpecID.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util
+END
+AbstractSimpleSelectable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/AbstractSimpleSelectable.java
+END
+UUIDUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/UUIDUtilities.java
+END
+QueuingServerPipeAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/QueuingServerPipeAcceptor.java
+END
+PipeStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/PipeStateListener.java
+END
+PipeEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/PipeEventListener.java
+END
+DevNullWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/DevNullWriter.java
+END
+DevNullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/DevNullOutputStream.java
+END
+ServerPipeAcceptListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/ServerPipeAcceptListener.java
+END
+LimitInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/LimitInputStream.java
+END
+JxtaServerPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/JxtaServerPipe.java
+END
+JxtaBiDiPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/JxtaBiDiPipe.java
+END
+SimpleSelectable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/SimpleSelectable.java
+END
+CountingInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/CountingInputStream.java
+END
+CountingWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/CountingWriter.java
+END
+CountingOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/CountingOutputStream.java
+END
+IgnoreFlushFilterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/IgnoreFlushFilterOutputStream.java
+END
+SimpleSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/SimpleSelector.java
+END
+ConcurrentWeakHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/ConcurrentWeakHashMap.java
+END
+ClassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/ClassFactory.java
+END

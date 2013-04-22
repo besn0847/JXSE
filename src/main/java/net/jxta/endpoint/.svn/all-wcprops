@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint
+END
+MessengerEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessengerEventListener.java
+END
+ListenerAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/ListenerAdaptor.java
+END
+MessageFilterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessageFilterListener.java
+END
+EndpointService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/EndpointService.java
+END
+TextDocumentMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/TextDocumentMessageElement.java
+END
+OutgoingMessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/OutgoingMessageEvent.java
+END
+MessagePropagater.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessagePropagater.java
+END
+MessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessageReceiver.java
+END
+AbstractMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/AbstractMessenger.java
+END
+ChannelMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/ChannelMessenger.java
+END
+WireFormatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/WireFormatMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/Message.java
+END
+StringMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/StringMessageElement.java
+END
+MessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessageSender.java
+END
+EndpointListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/EndpointListener.java
+END
+ThreadedMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/ThreadedMessenger.java
+END
+NullMessengerStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/NullMessengerStateListener.java
+END
+MessengerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessengerEvent.java
+END
+MessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessageElement.java
+END
+MessengerStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessengerStateListener.java
+END
+MessengerStateBarrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessengerStateBarrier.java
+END
+MessageTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessageTransport.java
+END
+TextMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/TextMessageElement.java
+END
+OutgoingMessageEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/OutgoingMessageEventListener.java
+END
+MessengerStateListenerSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessengerStateListenerSet.java
+END
+WireFormatMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/WireFormatMessageFactory.java
+END
+AsyncChannelMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/AsyncChannelMessenger.java
+END
+ByteArrayMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/ByteArrayMessageElement.java
+END
+EndpointAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/EndpointAddress.java
+END
+Messenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/Messenger.java
+END
+DeferredMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/DeferredMessenger.java
+END
+MessengerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/MessengerState.java
+END
+InputStreamMessageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/endpoint/InputStreamMessageElement.java
+END

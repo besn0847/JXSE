@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol
+END
+PeerInfoQueryMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/PeerInfoQueryMessage.java
+END
+ModuleImplAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ModuleImplAdvertisement.java
+END
+PeerGroupAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/PeerGroupAdvertisement.java
+END
+DiscoveryQueryMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/DiscoveryQueryMsg.java
+END
+SignedAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/SignedAdvertisement.java
+END
+ContentAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ContentAdvertisement.java
+END
+ModuleClassAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ModuleClassAdvertisement.java
+END
+AccessPointAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/AccessPointAdvertisement.java
+END
+SrdiMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/SrdiMessage.java
+END
+ConfigParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ConfigParams.java
+END
+PipeResolverMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/PipeResolverMessage.java
+END
+RdvAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/RdvAdvertisement.java
+END
+PeerAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/PeerAdvertisement.java
+END
+ResolverResponseMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ResolverResponseMsg.java
+END
+TransportAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/TransportAdvertisement.java
+END
+PipeAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/PipeAdvertisement.java
+END
+ContentShareAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ContentShareAdvertisement.java
+END
+RouteAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/RouteAdvertisement.java
+END
+ResolverSrdiMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ResolverSrdiMsg.java
+END
+PeerInfoResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/PeerInfoResponseMessage.java
+END
+ModuleSpecAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ModuleSpecAdvertisement.java
+END
+DiscoveryResponseMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/DiscoveryResponseMsg.java
+END
+ResolverQueryMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/protocol/ResolverQueryMsg.java
+END

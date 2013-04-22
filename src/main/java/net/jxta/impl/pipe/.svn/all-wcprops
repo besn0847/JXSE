@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe
+END
+InputPipeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/InputPipeImpl.java
+END
+PipeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/PipeResolver.java
+END
+WireHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/WireHeader.java
+END
+PipeRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/PipeRegistrar.java
+END
+PipeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/PipeServiceImpl.java
+END
+NonBlockingOutputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/NonBlockingOutputPipe.java
+END
+WirePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/WirePipe.java
+END
+SecureOutputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/SecureOutputPipe.java
+END
+SecureInputPipeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/SecureInputPipeImpl.java
+END
+WirePipeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/WirePipeImpl.java
+END
+NonBlockingWireOutputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/NonBlockingWireOutputPipe.java
+END
+BlockingWireOutputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/pipe/BlockingWireOutputPipe.java
+END

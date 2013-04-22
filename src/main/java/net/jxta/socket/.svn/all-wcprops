@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/socket
+END
+JxtaSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/socket/JxtaSocket.java
+END
+JxtaMulticastSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/socket/JxtaMulticastSocket.java
+END
+JxtaSocketAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/socket/JxtaSocketAddress.java
+END
+JxtaServerSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/socket/JxtaServerSocket.java
+END
+JxtaSocketInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/socket/JxtaSocketInputStream.java
+END
+JxtaSocketOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/socket/JxtaSocketOutputStream.java
+END

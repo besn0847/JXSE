@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/peer
+END
+PeerID.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/peer/PeerID.java
+END
+PeerInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/peer/PeerInfoService.java
+END
+PeerInfoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/peer/PeerInfoEvent.java
+END
+PeerInfoListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/peer/PeerInfoListener.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/rendezvous
+END
+RendezVousService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/rendezvous/RendezVousService.java
+END
+RendezvousEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/rendezvous/RendezvousEvent.java
+END
+RendezVousStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/rendezvous/RendezVousStatus.java
+END
+RendezvousListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/rendezvous/RendezvousListener.java
+END

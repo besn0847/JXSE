@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/msgframing
+END
+WelcomeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/msgframing/WelcomeMessage.java
+END
+MessagePackageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/msgframing/MessagePackageHeader.java
+END

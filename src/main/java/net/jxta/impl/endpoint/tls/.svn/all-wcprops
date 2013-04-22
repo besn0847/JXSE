@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls
+END
+TlsTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/TlsTransport.java
+END
+TlsConn.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/TlsConn.java
+END
+JTlsInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/JTlsInputStream.java
+END
+JTlsOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/JTlsOutputStream.java
+END
+TlsMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/TlsMessenger.java
+END
+TlsSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/TlsSocket.java
+END
+TlsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/TlsManager.java
+END
+JTlsDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/tls/JTlsDefs.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util
+END
+MessageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/MessageUtil.java
+END
+TempDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/TempDir.java
+END
+TcpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/TcpConnection.java
+END
+DelegateClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/DelegateClassLoader.java
+END
+AdvUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/AdvUtil.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/MessageListener.java
+END
+JUnitRuleMockery.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/JUnitRuleMockery.java
+END
+JxtaSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/JxtaSink.java
+END
+WatchedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/WatchedInputStream.java
+END
+WatchedStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/WatchedStream.java
+END
+WatchedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/WatchedOutputStream.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/util/Util.java
+END

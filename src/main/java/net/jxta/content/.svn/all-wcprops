@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content
+END
+ContentShareEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentShareEvent.java
+END
+ContentProviderSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentProviderSPI.java
+END
+ContentShareListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentShareListener.java
+END
+TransferException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/TransferException.java
+END
+TransferFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/TransferFailedException.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/Content.java
+END
+NullContentTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/NullContentTransfer.java
+END
+ContentTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentTransfer.java
+END
+ContentTransferState.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentTransferState.java
+END
+Metadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/Metadata.java
+END
+ContentTransferEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentTransferEvent.java
+END
+ContentTransferAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentTransferAggregator.java
+END
+ContentTransferAggregatorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentTransferAggregatorEvent.java
+END
+ContentSourceLocationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentSourceLocationState.java
+END
+ContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentProvider.java
+END
+ContentTransferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentTransferListener.java
+END
+ContentProviderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentProviderEvent.java
+END
+ContentID.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentID.java
+END
+ContentTransferAggregatorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentTransferAggregatorListener.java
+END
+ContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentService.java
+END
+ContentProviderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentProviderListener.java
+END
+ContentShare.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/ContentShare.java
+END
+TransferCancelledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/content/TransferCancelledException.java
+END

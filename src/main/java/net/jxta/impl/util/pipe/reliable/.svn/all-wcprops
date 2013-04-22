@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable
+END
+OutgoingMsgrAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/OutgoingMsgrAdaptor.java
+END
+Defs.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/Defs.java
+END
+OutgoingPipeAdaptorSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/OutgoingPipeAdaptorSync.java
+END
+Incoming.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/Incoming.java
+END
+OutgoingPipeAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/OutgoingPipeAdaptor.java
+END
+AdaptiveFlowControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/AdaptiveFlowControl.java
+END
+FixedFlowControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/FixedFlowControl.java
+END
+FlowControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/FlowControl.java
+END
+Outgoing.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/Outgoing.java
+END
+ReliableInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/ReliableInputStream.java
+END
+IncomingPipeAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/IncomingPipeAdaptor.java
+END
+ReliableOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/pipe/reliable/ReliableOutputStream.java
+END

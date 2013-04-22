@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated
+END
+AdHocHttp2CommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/AdHocHttp2CommsTest.java
+END
+RelayedPipeLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/RelayedPipeLoadTest.java
+END
+SystemTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/SystemTestUtils.java
+END
+RelayedHttp2CommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/RelayedHttp2CommsTest.java
+END
+LoadTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/LoadTester.java
+END
+PipeEnds.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/PipeEnds.java
+END
+AdHocPipeSoakTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/AdHocPipeSoakTest.java
+END
+AdHocHttpCommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/AdHocHttpCommsTest.java
+END
+AdHocCommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/AdHocCommsTest.java
+END
+RelayedPipeSoakTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/RelayedPipeSoakTest.java
+END
+SoakTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/SoakTester.java
+END
+RelayedHttpCommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/RelayedHttpCommsTest.java
+END
+RelayedCommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/RelayedCommsTest.java
+END
+AdHocTcpCommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/AdHocTcpCommsTest.java
+END
+RelayedTcpCommsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/RelayedTcpCommsTest.java
+END
+AdHocPipeLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/AdHocPipeLoadTest.java
+END
+ShutdownIsolationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxse/systemtests/colocated/ShutdownIsolationTest.java
+END

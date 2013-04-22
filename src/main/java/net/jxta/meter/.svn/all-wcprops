@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter
+END
+PeerMonitorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/PeerMonitorInfo.java
+END
+PeerMonitorInfoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/PeerMonitorInfoEvent.java
+END
+MonitorResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/MonitorResources.java
+END
+MonitorReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/MonitorReport.java
+END
+ServiceMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/ServiceMetric.java
+END
+PeerMonitorInfoListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/PeerMonitorInfoListener.java
+END
+MonitorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/MonitorException.java
+END
+ServiceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/ServiceMonitor.java
+END
+MonitorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/MonitorEvent.java
+END
+MonitorFilterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/MonitorFilterException.java
+END
+MonitorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/MonitorFilter.java
+END
+MonitorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/MonitorListener.java
+END
+ServiceMonitorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/meter/ServiceMonitorFilter.java
+END

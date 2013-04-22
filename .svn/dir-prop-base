@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 173
+.ant.properties
+.cache
+.classpath
+.jxta
+.project
+.settings
+Old
+alice
+bin
+bob
+build_classes
+build_generated
+classes
+dist
+doc
+felix-cache
+jnlp
+local.*
+target
+test_classes
+tmp
+
+END

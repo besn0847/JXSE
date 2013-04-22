@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/test/java/net/jxta/impl/cm/srdi/bdb
+END
+BerkeleyDbSrdiIndexBackendConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/test/java/net/jxta/impl/cm/srdi/bdb/BerkeleyDbSrdiIndexBackendConcurrencyTest.java
+END
+BerkeleyDbSrdiIndexBackendLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/test/java/net/jxta/impl/cm/srdi/bdb/BerkeleyDbSrdiIndexBackendLoadTest.java
+END
+BerkeleyDbSrdiIndexBackendTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/test/java/net/jxta/impl/cm/srdi/bdb/BerkeleyDbSrdiIndexBackendTest.java
+END

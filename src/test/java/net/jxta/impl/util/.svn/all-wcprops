@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/util
+END
+TimeUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/util/TimeUtilsTest.java
+END
+BASE64Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/util/BASE64Test.java
+END
+LRUCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/util/LRUCacheTest.java
+END
+FakeSystemClock.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/util/FakeSystemClock.java
+END
+SeedingManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/util/SeedingManagerTest.java
+END

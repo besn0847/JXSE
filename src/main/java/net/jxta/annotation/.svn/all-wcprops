@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/annotation
+END
+DoNotRelyOnThisCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/annotation/DoNotRelyOnThisCode.java
+END
+NeedsRedesign.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/annotation/NeedsRedesign.java
+END
+DoNotDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/annotation/DoNotDelete.java
+END

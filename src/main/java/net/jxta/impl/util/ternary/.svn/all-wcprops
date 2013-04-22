@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/ternary
+END
+TernarySearchTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/ternary/TernarySearchTree.java
+END
+TernarySearchTreeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/ternary/TernarySearchTreeImpl.java
+END
+TernarySearchTreeMatchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/ternary/TernarySearchTreeMatchListener.java
+END

@@ -1,0 +1,95 @@
+10
+
+dir
+1103
+https://svn.java.net/svn/jxta-jxse~svn/tags/2.7/src/main/resources/net/jxta/impl/endpoint
+https://svn.java.net/svn/jxta-jxse~svn
+
+
+
+2010-08-24T00:14:52.023175Z
+962
+AdamMan71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5441af65-4f78-e18d-b863-ec905caf810d
+
+router
+dir
+
+tls
+dir
+
+netty
+dir
+
+servlethttp
+dir
+
+cbjx
+dir
+
+tcp
+dir
+
+mcast
+dir
+
+transportMeter
+dir
+
+msgframing
+dir
+
+relay
+dir
+
+endpointMeter
+dir
+
+package.html
+file
+
+
+
+
+2011-08-12T21:56:02.691279Z
+e653f3fb3bb05fcf1261c6612e780186
+2007-08-01T18:52:23.989915Z
+238
+bondolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+400
+

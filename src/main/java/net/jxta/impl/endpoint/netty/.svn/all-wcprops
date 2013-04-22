@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty
+END
+AddressTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/AddressTranslator.java
+END
+SerializedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/SerializedMessage.java
+END
+JxtaMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/JxtaMessageDecoder.java
+END
+NullTransportServerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NullTransportServerComponent.java
+END
+MessageDispatchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/MessageDispatchHandler.java
+END
+TransportServerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/TransportServerComponent.java
+END
+NettyTransportServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NettyTransportServer.java
+END
+NullTransportClientComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NullTransportClientComponent.java
+END
+NullTransportComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NullTransportComponent.java
+END
+MessageArrivalListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/MessageArrivalListener.java
+END
+JxtaMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/JxtaMessageEncoder.java
+END
+NettyMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NettyMessenger.java
+END
+TransportClientComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/TransportClientComponent.java
+END
+NettyTransportClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NettyTransportClient.java
+END
+TransportComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/TransportComponent.java
+END
+NettyTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NettyTransport.java
+END
+NettyChannelRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NettyChannelRegistry.java
+END
+JxtaProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/JxtaProtocolHandler.java
+END
+NettyTransportChannelPipelineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/NettyTransportChannelPipelineFactory.java
+END
+InetSocketAddressTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/InetSocketAddressTranslator.java
+END
+AsynchronousNettyMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/AsynchronousNettyMessenger.java
+END
+ConnectionRejector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/netty/ConnectionRejector.java
+END

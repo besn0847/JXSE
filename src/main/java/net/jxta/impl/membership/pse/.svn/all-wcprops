@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse
+END
+KeyStoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/KeyStoreManager.java
+END
+FileKeyStoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/FileKeyStoreManager.java
+END
+EngineAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/EngineAuthenticator.java
+END
+StringAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/StringAuthenticator.java
+END
+PSECrendentialBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSECrendentialBeanInfo.java
+END
+PSEPeerValidationEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSEPeerValidationEngine.java
+END
+PSEUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSEUtils.java
+END
+PSEAuthenticatorEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSEAuthenticatorEngine.java
+END
+PSEConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSEConfig.java
+END
+URIKeyStoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/URIKeyStoreManager.java
+END
+CMKeyStoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/CMKeyStoreManager.java
+END
+PSEPeerSecurityEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSEPeerSecurityEngine.java
+END
+PSECredential.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSECredential.java
+END
+PSEMembershipService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSEMembershipService.java
+END
+PSEMembershipServiceBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/PSEMembershipServiceBeanInfo.java
+END
+DialogAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/membership/pse/DialogAuthenticator.java
+END

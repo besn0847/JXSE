@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv
+END
+PeerViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewElement.java
+END
+PeerviewSeedingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerviewSeedingManager.java
+END
+PeerViewRandomWithReplaceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewRandomWithReplaceStrategy.java
+END
+PeerViewSequentialStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewSequentialStrategy.java
+END
+PeerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerView.java
+END
+PeerViewDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewDestination.java
+END
+PeerViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewEvent.java
+END
+PeerViewStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewStrategy.java
+END
+PeerViewRandomStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewRandomStrategy.java
+END
+PeerViewListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/rpv/PeerViewListener.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter
+END
+TransportMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportMetric.java
+END
+TransportServiceMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportServiceMetric.java
+END
+TransportBindingMeter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportBindingMeter.java
+END
+TransportServiceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportServiceMonitor.java
+END
+TransportMeter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportMeter.java
+END
+TransportMeterBuildSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportMeterBuildSettings.java
+END
+TransportBindingMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportBindingMetric.java
+END
+TransportServiceMonitorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/TransportServiceMonitorFilter.java
+END
+ConditionalTransportMeterBuildSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/transportMeter/ConditionalTransportMeterBuildSettings.java
+END

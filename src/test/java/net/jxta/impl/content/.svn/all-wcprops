@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content
+END
+ModuleLifecycleManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content/ModuleLifecycleManagerTest.java
+END
+ModuleLifecycleTrackerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content/ModuleLifecycleTrackerTest.java
+END
+EventAggregatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content/EventAggregatorTest.java
+END
+TransferAggregatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content/TransferAggregatorTest.java
+END
+AbstractContentProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content/AbstractContentProviderTest.java
+END
+ContentSharerSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content/ContentSharerSPI.java
+END
+ModuleWrapperFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/content/ModuleWrapperFactoryTest.java
+END

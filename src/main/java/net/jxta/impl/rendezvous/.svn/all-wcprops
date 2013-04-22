@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous
+END
+RendezVousServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/RendezVousServiceProvider.java
+END
+StdRendezVousService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/StdRendezVousService.java
+END
+RdvWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/RdvWalker.java
+END
+RendezVousServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/RendezVousServiceImpl.java
+END
+RdvGreeter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/RdvGreeter.java
+END
+RdvWalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/RdvWalk.java
+END
+PeerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/PeerConnection.java
+END
+RendezVousPropagateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/rendezvous/RendezVousPropagateMessage.java
+END

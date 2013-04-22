@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/socket
+END
+SocketServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/socket/SocketServer.java
+END
+OutgoingFaultyMsgrAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/socket/OutgoingFaultyMsgrAdaptor.java
+END
+SocketClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/socket/SocketClient.java
+END

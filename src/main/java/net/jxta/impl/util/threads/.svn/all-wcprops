@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads
+END
+CachedThreadExecutorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/CachedThreadExecutorService.java
+END
+QueueTimeRunMetricsWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/QueueTimeRunMetricsWrapper.java
+END
+ProxiedRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/ProxiedRunnable.java
+END
+NamedThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/NamedThreadFactory.java
+END
+ProxiedScheduledFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/ProxiedScheduledFuture.java
+END
+SharedThreadPoolExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/SharedThreadPoolExecutor.java
+END
+SharedScheduledThreadPoolExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/SharedScheduledThreadPoolExecutor.java
+END
+ProxiedCallable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/ProxiedCallable.java
+END
+ProxiedScheduledExecutorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/ProxiedScheduledExecutorService.java
+END
+RunnableAsCallableWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/RunnableAsCallableWrapper.java
+END
+LongTaskDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/LongTaskDetector.java
+END
+RunMetricsWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/RunMetricsWrapper.java
+END
+SelfCancellingTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/SelfCancellingTask.java
+END
+TaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/util/threads/TaskManager.java
+END

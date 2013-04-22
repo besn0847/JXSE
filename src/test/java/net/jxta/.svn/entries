@@ -1,0 +1,70 @@
+10
+
+dir
+1103
+https://svn.java.net/svn/jxta-jxse~svn/tags/2.7/src/test/java/net/jxta
+https://svn.java.net/svn/jxta-jxse~svn
+
+
+
+2010-11-09T19:04:01.374653Z
+1016
+iainmcgin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5441af65-4f78-e18d-b863-ec905caf810d
+
+test
+dir
+
+endpoint
+dir
+
+impl
+dir
+
+protocol
+dir
+
+platform
+dir
+
+rendezvous
+dir
+
+logging
+dir
+
+configuration
+dir
+
+peergroup
+dir
+
+socket
+dir
+
+id
+dir
+
+pipe
+dir
+
+util
+dir
+
+document
+dir
+

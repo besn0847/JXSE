@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http
+END
+Dispatchable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/Dispatchable.java
+END
+GetMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/GetMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/Message.java
+END
+Dispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/Dispatcher.java
+END
+PostMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/PostMessage.java
+END
+DispatchableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/DispatchableFactory.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/Constants.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/test/http/Util.java
+END

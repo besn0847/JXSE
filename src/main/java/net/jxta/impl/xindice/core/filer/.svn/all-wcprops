@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer
+END
+BTreeCorruptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/BTreeCorruptException.java
+END
+Streamable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/Streamable.java
+END
+BTreeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/BTreeException.java
+END
+FilerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/FilerException.java
+END
+Paged.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/Paged.java
+END
+BTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/BTree.java
+END
+Filer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/Filer.java
+END
+BTreeFiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/BTreeFiler.java
+END
+BTreeNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/BTreeNotFoundException.java
+END
+BTreeCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/xindice/core/filer/BTreeCallback.java
+END

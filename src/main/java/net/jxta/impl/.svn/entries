@@ -1,0 +1,116 @@
+10
+
+dir
+1103
+https://svn.java.net/svn/jxta-jxse~svn/tags/2.7/src/main/java/net/jxta/impl
+https://svn.java.net/svn/jxta-jxse~svn
+
+
+
+2011-03-16T23:33:22.857064Z
+1067
+adamman71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5441af65-4f78-e18d-b863-ec905caf810d
+
+endpoint
+dir
+
+xindice
+dir
+
+peer
+dir
+
+membership
+dir
+
+id
+dir
+
+pipe
+dir
+
+cm
+dir
+
+protocol
+dir
+
+access
+dir
+
+resolver
+dir
+
+rendezvous
+dir
+
+Version.java
+file
+
+
+
+
+2011-08-12T21:55:49.088084Z
+8190da9591f3bce954f943afa646a88b
+2010-11-03T06:16:21.508530Z
+996
+AdamMan71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5013
+
+loader
+dir
+
+discovery
+dir
+
+peergroup
+dir
+
+content
+dir
+
+meter
+dir
+
+util
+dir
+
+document
+dir
+

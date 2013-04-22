@@ -1,0 +1,187 @@
+10
+
+dir
+1103
+https://svn.java.net/svn/jxta-jxse~svn/tags/2.7/src/main/resources/net/jxta/impl
+https://svn.java.net/svn/jxta-jxse~svn
+
+
+
+2010-11-09T19:04:01.374653Z
+1016
+iainmcgin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5441af65-4f78-e18d-b863-ec905caf810d
+
+endpoint
+dir
+
+proxy
+dir
+
+monitor.properties
+file
+
+
+
+
+2011-08-12T21:56:09.048099Z
+2d17ca349776facd0fecb20b559652a0
+2007-06-14T23:52:37.519258Z
+2
+bondolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3160
+
+xindice
+dir
+
+peer
+dir
+
+membership
+dir
+
+id
+dir
+
+pipe
+dir
+
+cm
+dir
+
+config.properties
+file
+
+
+
+
+2011-08-12T21:56:09.048099Z
+b816f6958a7eb6f3424726fe633020be
+2010-11-09T19:04:01.374653Z
+1016
+iainmcgin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+579
+
+access
+dir
+
+protocol
+dir
+
+resolver
+dir
+
+rendezvous
+dir
+
+loader
+dir
+
+discovery
+dir
+
+peergroup
+dir
+
+overview.html
+file
+
+
+
+
+2011-08-12T21:56:09.048099Z
+a86d7458d9b88e8d74b09c112adf67fe
+2010-11-03T06:16:21.508530Z
+996
+AdamMan71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1134
+
+content
+dir
+
+meter
+dir
+
+util
+dir
+
+document
+dir
+

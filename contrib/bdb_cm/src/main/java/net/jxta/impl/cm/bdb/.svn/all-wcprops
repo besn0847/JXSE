@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb
+END
+AdvertisementDbRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/AdvertisementDbRecord.java
+END
+AdvertisementIndexableKeyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/AdvertisementIndexableKeyCreator.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/Test.java
+END
+AttributeSearchKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/AttributeSearchKey.java
+END
+AdvertisementKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/AdvertisementKey.java
+END
+AdvertisementDbRecordTupleBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/AdvertisementDbRecordTupleBinding.java
+END
+BerkeleyDbUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/BerkeleyDbUtil.java
+END
+AttributeSearchKeyTupleBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/AttributeSearchKeyTupleBinding.java
+END
+BerkeleyDbAdvertisementCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/BerkeleyDbAdvertisementCache.java
+END
+AdvertisementKeyTupleBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/AdvertisementKeyTupleBinding.java
+END
+ExpiryKeyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/ExpiryKeyCreator.java
+END
+CleanerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/bdb_cm/src/main/java/net/jxta/impl/cm/bdb/CleanerTask.java
+END

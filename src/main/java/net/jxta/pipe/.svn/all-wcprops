@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe
+END
+OutputPipeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/OutputPipeEvent.java
+END
+OutputPipeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/OutputPipeListener.java
+END
+PipeMsgEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/PipeMsgEvent.java
+END
+PipeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/PipeID.java
+END
+PipeMsgListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/PipeMsgListener.java
+END
+InputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/InputPipe.java
+END
+OutputPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/OutputPipe.java
+END
+PipeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/pipe/PipeService.java
+END

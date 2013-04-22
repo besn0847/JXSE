@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/srdisocket
+END
+SRDIContentShare.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/srdisocket/SRDIContentShare.java
+END
+SRDISocketContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/srdisocket/SRDISocketContentProvider.java
+END
+ContentRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/srdisocket/ContentRequest.java
+END
+SRDISocketContentShareAdvertisementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/srdisocket/SRDISocketContentShareAdvertisementImpl.java
+END
+ContentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/srdisocket/ContentResponse.java
+END
+SRDISocketContentTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/srdisocket/SRDISocketContentTransfer.java
+END

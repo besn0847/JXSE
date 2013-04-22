@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/cm/sql
+END
+DerbySeedDbGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/cm/sql/DerbySeedDbGenerator.java
+END
+DerbyAdvertisementCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/cm/sql/DerbyAdvertisementCacheTest.java
+END
+H2CmConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/cm/sql/H2CmConcurrencyTest.java
+END
+H2AdvertisementCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/impl/cm/sql/H2AdvertisementCacheTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/servlethttp
+END
+ServletHttpTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/servlethttp/ServletHttpTransport.java
+END
+HttpMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/servlethttp/HttpMessageSender.java
+END
+HttpClientMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/servlethttp/HttpClientMessenger.java
+END
+HttpMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/servlethttp/HttpMessageReceiver.java
+END
+HttpMessageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/servlethttp/HttpMessageServlet.java
+END
+HttpServletMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/endpoint/servlethttp/HttpServletMessenger.java
+END

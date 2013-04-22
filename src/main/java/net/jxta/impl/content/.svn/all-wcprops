@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content
+END
+AbstractPipeContentShare.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/AbstractPipeContentShare.java
+END
+ModuleLifecycleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/ModuleLifecycleManager.java
+END
+AbstractContentShare.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/AbstractContentShare.java
+END
+ModuleLifecycleTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/ModuleLifecycleTracker.java
+END
+AbstractContentTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/AbstractContentTransfer.java
+END
+EventAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/EventAggregator.java
+END
+ModuleLifecycleManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/ModuleLifecycleManagerListener.java
+END
+ModuleLifecycleState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/ModuleLifecycleState.java
+END
+TransferAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/TransferAggregator.java
+END
+AbstractPipeContentShareAdvertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/AbstractPipeContentShareAdvertisement.java
+END
+ModuleLifecycleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/ModuleLifecycleListener.java
+END
+ContentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/ContentServiceImpl.java
+END
+ModuleWrapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/impl/content/ModuleWrapperFactory.java
+END

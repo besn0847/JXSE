@@ -1,0 +1,171 @@
+10
+
+dir
+1103
+https://svn.java.net/svn/jxta-jxse~svn/tags/2.7/src/main/resources/net/jxta
+https://svn.java.net/svn/jxta-jxse~svn
+
+
+
+2010-11-09T19:04:01.374653Z
+1016
+iainmcgin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5441af65-4f78-e18d-b863-ec905caf810d
+
+endpoint
+dir
+
+platform
+dir
+
+logging
+dir
+
+socket
+dir
+
+codat
+dir
+
+membership
+dir
+
+peer
+dir
+
+id
+dir
+
+pipe
+dir
+
+exception
+dir
+
+service
+dir
+
+impl
+dir
+
+access
+dir
+
+protocol
+dir
+
+resolver
+dir
+
+rendezvous
+dir
+
+discovery
+dir
+
+configuration
+dir
+
+peergroup
+dir
+
+overview.html
+file
+
+
+
+
+2011-08-12T21:56:10.297474Z
+ec4ea0c805532d63a829e84d8bc1304e
+2010-11-03T06:16:21.508530Z
+996
+AdamMan71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+978
+
+user.properties
+file
+
+
+
+
+2011-08-12T21:56:10.297474Z
+8e91703529d7309c9a963cef587b0fc3
+2009-12-14T12:40:45.378117Z
+822
+utvikler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1175
+
+credential
+dir
+
+content
+dir
+
+annotation
+dir
+
+meter
+dir
+
+util
+dir
+
+document
+dir
+

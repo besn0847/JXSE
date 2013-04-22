@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/resources/META-INF/services
+END
+net.jxta.document.Advertisement
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/resources/META-INF/services/net.jxta.document.Advertisement
+END
+net.jxta.id.ID
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/resources/META-INF/services/net.jxta.id.ID
+END
+net.jxta.platform.Module
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/resources/META-INF/services/net.jxta.platform.Module
+END
+net.jxta.content.ContentProviderSPI
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/resources/META-INF/services/net.jxta.content.ContentProviderSPI
+END
+net.jxta.document.StructuredDocument
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/resources/META-INF/services/net.jxta.document.StructuredDocument
+END
+net.jxta.endpoint.WireFormatMessage
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/resources/META-INF/services/net.jxta.endpoint.WireFormatMessage
+END

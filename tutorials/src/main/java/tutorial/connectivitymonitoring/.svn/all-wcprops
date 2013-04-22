@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/tutorials/src/main/java/tutorial/connectivitymonitoring
+END
+EDGE_A.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/tutorials/src/main/java/tutorial/connectivitymonitoring/EDGE_A.java
+END
+RENDEZVOUS_A.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/tutorials/src/main/java/tutorial/connectivitymonitoring/RENDEZVOUS_A.java
+END
+DelayedJxtaNetworkStopper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/tutorials/src/main/java/tutorial/connectivitymonitoring/DelayedJxtaNetworkStopper.java
+END
+RENDEZVOUS_B.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/tutorials/src/main/java/tutorial/connectivitymonitoring/RENDEZVOUS_B.java
+END
+ConnectivityMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/tutorials/src/main/java/tutorial/connectivitymonitoring/ConnectivityMonitor.java
+END
+ConnectivityMonitor.form
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/tutorials/src/main/java/tutorial/connectivitymonitoring/ConnectivityMonitor.form
+END

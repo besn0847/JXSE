@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/documentSerializable
+END
+DocumentSerializableUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/documentSerializable/DocumentSerializableUtilities.java
+END
+DocumentSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/documentSerializable/DocumentSerializable.java
+END
+DocumentSerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxta/util/documentSerializable/DocumentSerializationException.java
+END

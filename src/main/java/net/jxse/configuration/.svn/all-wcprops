@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxse/configuration
+END
+JxseConfigurationTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxse/configuration/JxseConfigurationTool.java
+END
+JxseHttp2TransportConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxse/configuration/JxseHttp2TransportConfiguration.java
+END
+JxseMulticastTransportConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxse/configuration/JxseMulticastTransportConfiguration.java
+END
+JxseTcpTransportConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxse/configuration/JxseTcpTransportConfiguration.java
+END
+JxsePeerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxse/configuration/JxsePeerConfiguration.java
+END
+JxseHttpTransportConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/main/java/net/jxse/configuration/JxseHttpTransportConfiguration.java
+END

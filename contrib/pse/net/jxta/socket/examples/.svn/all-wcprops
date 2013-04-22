@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/pse/net/jxta/socket/examples
+END
+DefaultTCPMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/pse/net/jxta/socket/examples/DefaultTCPMessageTest.java
+END
+SystemTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/pse/net/jxta/socket/examples/SystemTestUtils.java
+END
+DefaultSecureTCPMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/pse/net/jxta/socket/examples/DefaultSecureTCPMessageTest.java
+END
+SocketTestReliable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/pse/net/jxta/socket/examples/SocketTestReliable.java
+END
+SocketTestUnReliable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/contrib/pse/net/jxta/socket/examples/SocketTestUnReliable.java
+END

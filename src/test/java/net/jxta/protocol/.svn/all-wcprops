@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol
+END
+GroupConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/GroupConfigTest.java
+END
+DiscoveryQueryMsgTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/DiscoveryQueryMsgTest.java
+END
+SignedAdvertisementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/SignedAdvertisementTest.java
+END
+PeerAdvertisementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/PeerAdvertisementTest.java
+END
+RdvAdvertisementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/RdvAdvertisementTest.java
+END
+SrdiMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/SrdiMessageTest.java
+END
+ResolverResponseMsgTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/ResolverResponseMsgTest.java
+END
+PipeAdvertisementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/PipeAdvertisementTest.java
+END
+ResolverMsgTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/ResolverMsgTest.java
+END
+TestRouteAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/TestRouteAdv.java
+END
+ResolverSrdiMsgTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/ResolverSrdiMsgTest.java
+END
+DiscoveryResponseMsgTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/DiscoveryResponseMsgTest.java
+END
+ResolverQueryMsgTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jxta-jxse~svn/!svn/ver/1069/tags/2.7/src/test/java/net/jxta/protocol/ResolverQueryMsgTest.java
+END

@@ -1,0 +1,86 @@
+10
+
+dir
+1103
+https://svn.java.net/svn/jxta-jxse~svn/tags/2.7/lib
+https://svn.java.net/svn/jxta-jxse~svn
+
+
+
+2010-11-03T06:16:21.508530Z
+996
+AdamMan71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5441af65-4f78-e18d-b863-ec905caf810d
+
+jetty
+dir
+
+netty
+dir
+
+jmock-2.5.1
+dir
+
+dependencies.txt
+file
+
+
+
+
+2011-08-12T21:54:16.734283Z
+c82a339827b2e90f0ee72f92a8965fba
+2010-03-02T13:55:54.540437Z
+859
+utvikler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+741
+
+derby
+dir
+
+felix
+dir
+
+h2
+dir
+
+junit
+dir
+
+bouncycastle
+dir
+
