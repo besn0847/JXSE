@@ -698,16 +698,20 @@ public class JxtaServerSocket extends ServerSocket implements PipeMsgListener {
         boolean pushed = false;
 
         try {
-
+        	Logging.logCheckedFine(LOG, "Adding message to queue with timeout : "+this.timeout+"/"+timeout);
             pushed = queue.offer(message, timeout, TimeUnit.MILLISECONDS);
-
+            if (pushed)
+            	Logging.logCheckedFine(LOG, "Adding message to queue : OK");
+            else
+            	Logging.logCheckedFine(LOG, "Adding message to queue : NOK");
+            
         } catch (InterruptedException woken) {
 
             Logging.logCheckedFine(LOG, "Interrupted\n", woken);
 
         }
 
-        Logging.logCheckedWarning(LOG, "backlog queue full, connect request dropped");
+        Logging.logCheckedWarning(LOG, "backlog queue full, connect request dropped; backlog max size : "+this.backlog+"; current : "+queue.size());
 
     }
 

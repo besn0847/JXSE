@@ -91,7 +91,7 @@ class NonBlockingOutputPipe implements PipeResolver.Listener, OutputPipe, Runnab
     /**
      * Amount of time an idle worker thread will linger
      */
-    private static final long IDLEWORKERLINGER = 10 * TimeUtils.ASECOND;
+    private static final long IDLEWORKERLINGER = 60 * TimeUtils.ASECOND;
 
     /**
      * Minimum Query interval. Queries will not be sent more frequently than
@@ -590,9 +590,12 @@ class NonBlockingOutputPipe implements PipeResolver.Listener, OutputPipe, Runnab
                 if (WorkerState.SENDMESSAGES == workerstate) {
                     Message msg = null;
 
+                    Logging.logCheckedFine(LOG, "----- Waiting for incoming messages");
+                    
                     try {
                         msg = queue.poll(IDLEWORKERLINGER, TimeUnit.MILLISECONDS);
                     } catch (InterruptedException woken) {
+                    	Logging.logCheckedFine(LOG, "----- Queue polling timeout");
                         Thread.interrupted();
                         continue;
                     }
@@ -604,6 +607,7 @@ class NonBlockingOutputPipe implements PipeResolver.Listener, OutputPipe, Runnab
                             // is, then we have to be the one to service the
                             // queue.
                             if (null == queue.peek()) {
+                            	Logging.logCheckedFine(LOG, "----- Queue is empty");
                                 if (closed) {
                                     workerstate = WorkerState.CLOSED;
                                     continue;

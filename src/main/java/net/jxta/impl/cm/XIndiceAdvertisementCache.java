@@ -1101,7 +1101,8 @@ public class XIndiceAdvertisementCache extends AbstractAdvertisementCache implem
                 if (indexName.startsWith(dn)) {
                     String attr = indexName.substring(dn.length());
                     NameIndexer idxr = map.get(indexName);
-                	System.err.println("Checking indexname " + indexName + " with dn " + dn + " with attr " + attr );
+                	//System.err.println("Checking indexname " + indexName + " with dn " + dn + " with attr " + attr );
+                	LOG.severe("Checking indexname " + indexName + " with dn " + dn + " with attr " + attr );
                     idxr.query(null, new XIndiceIndexer.SearchCallback(listDB, new EntriesCallback(cacheDB, res, attr, Integer.MAX_VALUE)));
                 }
             }

@@ -89,6 +89,8 @@ public class SearchIndex {
 
     // Counter used for statistics only
     private volatile int registrations;
+    
+    private static long SEARCHINDEX_EXPIRY = 30000L;
 
     public SearchIndex( String indexName ) {
 
@@ -143,9 +145,10 @@ public class SearchIndex {
     public boolean remove( final SearchKey searchKey, final PeerIdKey peerIdKey ) {
 
         boolean ret = true;
-
+        
+       System.out.println(this.getStats());
+        
         synchronized ( this.searchIndex ) {
-
             Map<PeerIdKey, Long> peerIdsMap = this.searchIndex.get( searchKey.getKey(  ) );
 
             if ( peerIdsMap != null ) {
@@ -231,6 +234,7 @@ public class SearchIndex {
         synchronized ( this.searchIndex ) {
         	 if ( Logging.SHOW_FINE && LOG.isLoggable( Level.FINE ) ) {
                  LOG.fine( "[search key : '" + searchKey.getKey(  ) + " | peerID key : "+peerIdKey.getPeerID()+ " | expiry : "+expiry+"]");
+        		 //LOG.fine( "[search key : '" + searchKey.getKey(  ) + " | peerID key : "+peerIdKey.getPeerID()+"]");
              }
         	
             // Get the map at this index or create the node with the default map
@@ -239,6 +243,7 @@ public class SearchIndex {
 
             // Update the value
             return map.put( peerIdKey, expiry );
+            //return map.put( peerIdKey, SEARCHINDEX_EXPIRY );            
         }
     }
 

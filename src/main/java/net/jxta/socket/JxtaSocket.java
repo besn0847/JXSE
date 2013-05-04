@@ -412,6 +412,8 @@ public class JxtaSocket extends Socket implements PipeMsgListener, OutputPipeLis
 
         this.isServerSponsoredSocket = true;
 
+        LOG.fine("Pipe name : "+localEphemeralPipeAdv.getID());
+        
         pipeSvc = group.getPipeService();
         this.localEphemeralPipeIn = pipeSvc.createInputPipe(localEphemeralPipeAdv, this);
         connect();
@@ -1100,6 +1102,7 @@ public class JxtaSocket extends Socket implements PipeMsgListener, OutputPipeLis
      */
     @Override
     public synchronized void close() throws IOException {
+    	Logging.logCheckedInfo(LOG, "Closing request for ", this);
         try {
             synchronized (closeLock) {
             	// ServerSocket has a timeout of zero which is no use...
@@ -1138,6 +1141,7 @@ public class JxtaSocket extends Socket implements PipeMsgListener, OutputPipeLis
                     } else {
                         sendClose();
                     }
+
 
                     Logging.logCheckedFine(LOG, "Sent close, awaiting ACK for ", this);
 
@@ -1227,6 +1231,8 @@ public class JxtaSocket extends Socket implements PipeMsgListener, OutputPipeLis
      * used for sending messages.
      */
     protected synchronized void unbind() {
+    	Logging.logCheckedFine(LOG, "Unbinding jxta socket");
+    	
         if (!isBound()) {
             return;
         }
@@ -1247,12 +1253,11 @@ public class JxtaSocket extends Socket implements PipeMsgListener, OutputPipeLis
         setBound(false);
 
         // close pipe and messenger
-        Logging.logCheckedFine(LOG, "Closing ephemeral input pipe");
+        Logging.logCheckedFine(LOG, "Closing ephemeral input pipe : "+localEphemeralPipeIn.getPipeID());
 
         localEphemeralPipeIn.close();
 
-        Logging.logCheckedFine(LOG, "Closing remote ephemeral pipe messenger");
-
+        Logging.logCheckedFine(LOG, "Closing remote ephemeral pipe messenger : " + remoteEphemeralPipeMsgr.toString());
         if(null != outgoing) {
             outgoing.close();
         }

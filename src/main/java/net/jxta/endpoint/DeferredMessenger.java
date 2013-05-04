@@ -3,7 +3,9 @@ package net.jxta.endpoint;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.logging.Logger;
 
+import net.jxta.impl.util.URISeedingManager;
 import net.jxta.peergroup.PeerGroupID;
 import net.jxta.util.SimpleSelectable;
 import net.jxta.util.SimpleSelector;
@@ -14,6 +16,8 @@ public class DeferredMessenger implements Messenger
     private boolean closed;
     private final String name;
     private List<Message> messages = new LinkedList<Message>();
+    
+    private static final transient Logger LOG = Logger.getLogger(DeferredMessenger.class.getName());
 
     public DeferredMessenger(String name)
     {
@@ -43,12 +47,14 @@ public class DeferredMessenger implements Messenger
             {
                 sendMessageB(msg, null, null);
             }
-            System.err.println("Resend " + messages.size() + " " + name);
+            //System.err.println("Resend " + messages.size() + " " + name);
+            LOG.severe("Resend " + messages.size() + " " + name);
         }
         catch (Exception e)
         {
 
-            System.err.println("Unable to send deffered messages " + e);
+            //System.err.println("Unable to send deffered messages " + e);
+        	LOG.severe("Unable to send deffered messages " + e);
             e.printStackTrace();
         }
         finally
@@ -151,7 +157,8 @@ public class DeferredMessenger implements Messenger
             {
                 throw new IOException("Messenger is closed");
             }
-            System.err.println("Waiting for messenger to send message " + name);
+            //System.err.println("Waiting for messenger to send message " + name);
+            LOG.severe("Waiting for messenger to send message " + name);
             messages.add(message);
         }
         else

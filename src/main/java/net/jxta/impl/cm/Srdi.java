@@ -84,6 +84,7 @@ public class Srdi implements SrdiAPI {
 
 	public static final String SRDI_INDEX_BACKEND_SYSPROP = "net.jxta.impl.cm.Srdi.backend.impl";
 	public static final String DEFAULT_SRDI_INDEX_BACKEND = "net.jxta.impl.cm.InMemorySrdi";
+	//public static final String DEFAULT_SRDI_INDEX_BACKEND = "net.jxta.impl.cm.XIndiceSrdi";
 	
 	public static final long DEFAULT_GC_INTERVAL = 10 * TimeUtils.AMINUTE;
 	public static final long NO_AUTO_GC = -1;

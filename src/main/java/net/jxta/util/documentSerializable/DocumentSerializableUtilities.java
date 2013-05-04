@@ -63,6 +63,7 @@ import net.jxta.document.StructuredDocumentFactory;
 import net.jxta.document.StructuredDocumentUtils;
 import net.jxta.document.XMLDocument;
 import net.jxta.exception.JxtaException;
+import net.jxta.impl.util.URISeedingManager;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
@@ -71,6 +72,7 @@ import java.io.OutputStream;
 import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.Enumeration;
+import java.util.logging.Logger;
 
 /**
  **/
@@ -78,6 +80,8 @@ public class DocumentSerializableUtilities {
     // Fix-Me: I didn't implement byte, short or float
     // Fix-Me: I didn't implement arrays, ie addInt(Element element, String tagName, int values[]), etc
 
+	private static final transient Logger LOG = Logger.getLogger(DocumentSerializableUtilities.class.getName());
+	
     /**
      * Creates a Structured XML Document containing the serialized object
      *
@@ -510,12 +514,14 @@ public class DocumentSerializableUtilities {
     public static void printAsXmlString(DocumentSerializable documentSerializable) {
         try {
             if (documentSerializable == null) {
-                System.err.println("<null DocumentSerializable>");
+                //System.err.println("<null DocumentSerializable>");
+                LOG.severe("<null DocumentSerializable>");
             } else {
                 writeAsXmlString(System.err, documentSerializable);
             }
         } catch (Exception e) {
-            System.err.println("<Error converting DocumentSerializable to XML doc: " + e);
+            //System.err.println("<Error converting DocumentSerializable to XML doc: " + e);
+        	LOG.severe("<Error converting DocumentSerializable to XML doc: " + e);
         }
     }
 	

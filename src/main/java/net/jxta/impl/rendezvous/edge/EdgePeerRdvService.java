@@ -194,7 +194,8 @@ public class EdgePeerRdvService extends StdRendezVousService {
         }
 
         String serviceName = rdvService.getAssignedID().toString() + group.getPeerGroupID().getUniqueValue().toString();
-        System.err.println("EdgePeerRdvService: " + group.getPeerGroupID().toString());
+        //System.err.println("EdgePeerRdvService: " + group.getPeerGroupID().toString());
+        LOG.severe("EdgePeerRdvService: " + group.getPeerGroupID().toString());
 
         URISeedingManager uriSeedingManager;
 

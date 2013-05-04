@@ -27,7 +27,7 @@ public class DerbyAdvertisementCache extends JdbcAdvertisementCache {
 		EmbeddedConnectionPoolDataSource dataSource = new EmbeddedConnectionPoolDataSource();
 		dataSource.setDatabaseName(dbDir.getAbsolutePath());
 		dataSource.setCreateDatabase("create");
-		System.err.println("Created derby cache");
+		//System.err.println("Created derby cache");
 		return dataSource;
 	}
 	
