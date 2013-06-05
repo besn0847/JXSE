@@ -9,13 +9,13 @@
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
-        <version>3</version>
+        <version>7</version>
     </parent>
 
     <scm>
-        <connection>scm:svn:https://jxta-jxse.dev.java.net/svn/jxta-jxse/trunk</connection>
-        <developerConnection>scm:svn:https://jxta-jxse.dev.java.net/svn/jxta-jxse/trunk</developerConnection>
-        <url>http://jxta-jxse.dev.java.net/svn/jxta-jxse/trunk</url>
+    	<connection>scm:git:git@github.com:besn0847/JXSE.git</connection>
+    	<developerConnection>scm:git:git@github.com:besn0847/JXSE.git</developerConnection>
+    	<url>git@github.com:besn0847/JXSE.git</url>
     </scm>
 
     <name>JXSE</name>
@@ -34,7 +34,7 @@
 
     <issueManagement>
         <system>Project Issues</system>
-        <url>https://jxta-jxse.dev.java.net/issues/query.cgi</url>
+        <url>https://github.com/besn0847/JXSE/issues</url>
     </issueManagement>
 
     <licenses>
@@ -66,6 +66,11 @@
         </mailingList>
     </mailingLists>
     <developers>
+    	<developer>
+    		<id>besn0847</id>
+    		<name>Franck Besnard</name>
+    		<email>franck@besnard.mobi</email>
+    	</developer>
     </developers>
 
     <properties>
@@ -73,8 +78,17 @@
     </properties>
 
     <repositories>
+	<!--
+    	<repository>
+      		<id>central</id>
+      		<name>Maven Repository Switchboard</name>
+      		<layout>default</layout>
+      		<url>http://repo1.maven.org/maven2</url>
+      		<snapshots>
+        		<enabled>false</enabled>
+      		</snapshots>
+    	</repository>
         <repository>
-            <!-- Repository needed to include the jboss netty library -->
             <id>repository.jboss.org</id>
             <url>http://repository.jboss.org/nexus/content/groups/public/</url>
             <snapshots>
@@ -82,10 +96,10 @@
             </snapshots>
         </repository>
         <repository>
-            <!-- Repository needed to include the jboss netty library -->
             <id>repository.httptunnel</id>
             <url>http://bitbucket.org/iainmcgin/netty-httptunnel/raw/tip/repo</url>
         </repository>
+	-->
     </repositories>
 
     <build>
@@ -203,7 +217,7 @@
         								</goals>
         							</pluginExecutionFilter>
         							<action>
-        								<ignore></ignore>
+        								<ignore />
         							</action>
         						</pluginExecution>
         					</pluginExecutions>
