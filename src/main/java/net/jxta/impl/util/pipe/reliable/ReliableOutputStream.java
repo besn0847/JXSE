@@ -68,6 +68,8 @@ import java.util.List;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.locks.ReadWriteLock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.crypto.Cipher;
@@ -115,7 +117,8 @@ public class ReliableOutputStream extends OutputStream implements Incoming {
     /**
      * A lock we use to ensure that write operations happen in order.
      */
-    private final Object writeLock = "writeLock";
+    //private final Object writeLock = "writeLock";
+    private ReadWriteLock writeLock = new ReentrantReadWriteLock();
 
     /**
      * The buffer we cache writes to.
@@ -443,10 +446,15 @@ public class ReliableOutputStream extends OutputStream implements Incoming {
         }
 
         // Flush any existing buffered writes. Then next write will use the new buffer size.
-        synchronized (writeLock) {
+        //synchronized (writeLock) {
+        writeLock.writeLock().lock();
+        try {
             flushBuffer();
             writeBufferSize = size;
+        } finally {
+        	writeLock.writeLock().unlock();
         }
+        //}
     }
 
     /**
@@ -464,10 +472,15 @@ public class ReliableOutputStream extends OutputStream implements Incoming {
         }
 
         // Clear the write queue. Remote side doesn't care.
-        synchronized (writeLock) {
+        //synchronized (writeLock) {
+        writeLock.writeLock().lock();
+        try {
             writeCount = 0;
             writeBuffer = null;
+        } finally {
+        	writeLock.writeLock().unlock();
         }
+        //}
 
         Logging.logCheckedInfo(LOG, "Hard closed.");
 
@@ -487,9 +500,14 @@ public class ReliableOutputStream extends OutputStream implements Incoming {
      */
     @Override
     public void flush() throws IOException {
-        synchronized (writeLock) {
+        //synchronized (writeLock) {
+        writeLock.writeLock().lock();
+        try {
             flushBuffer();
+        } finally {
+        	writeLock.writeLock().unlock();
         }
+        //}
     }
 
     /**
@@ -505,7 +523,9 @@ public class ReliableOutputStream extends OutputStream implements Incoming {
      */
     @Override
     public void write(byte b[], int off, int len) throws IOException {
-        synchronized (writeLock) {
+        //synchronized (writeLock) {
+    	writeLock.writeLock().lock();
+        try {
             if (isClosed()) {
                 throw new IOException("stream is closed");
             }
@@ -540,7 +560,10 @@ public class ReliableOutputStream extends OutputStream implements Incoming {
                     flushBuffer();
                 }
             }
+        } finally {
+        	writeLock.writeLock().unlock();
         }
+        //}
     }
 
     /**
@@ -653,11 +676,16 @@ public class ReliableOutputStream extends OutputStream implements Incoming {
         baos.close();
         byte[] bytes = baos.toByteArray();
 
-        synchronized (writeLock) {
+        //synchronized (writeLock) {
+        writeLock.writeLock().lock();
+        try {
             flushBuffer();
             writeBuffer(bytes, 0, bytes.length);
             return sequenceNumber.get();
+        } finally {
+        	writeLock.writeLock().unlock();
         }
+        //}
     }
 
     /**

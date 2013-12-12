@@ -1032,6 +1032,8 @@ public class JxtaSocket extends Socket implements PipeMsgListener, OutputPipeLis
             try {
                 ros.setSendBufferSize(outputBufferSize);
             } catch (IOException ignored) {// it's only a preference...
+            	// FBE : Well i don't think this should be ignored
+            	ignored.printStackTrace();
             }
         } else {
             nonReliableInputStream = new JxtaSocketInputStream(this, windowSize, isEncrypt, inputStreamCipher, localSecretKey);
